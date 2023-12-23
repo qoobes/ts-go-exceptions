@@ -1,0 +1,28 @@
+{
+  "name": "ts-go-exceptions",
+  "version": "0.0.2",
+  "description": "The go way to handle exceptions",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qoobes/ts-go-exceptions.git"
+  },
+  "keywords": [
+    "typescript",
+    "exceptions",
+    "go"
+  ],
+  "author": "Ahmed Haracic <me@qoobes.space>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qoobes/ts-go-exceptions/issues"
+  },
+  "homepage": "https://github.com/qoobes/ts-go-exceptions#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
