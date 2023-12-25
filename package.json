@@ -1,6 +1,6 @@
 {
   "name": "ts-go-exceptions",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The go way to handle exceptions",
   "main": "dist/index.js",
   "scripts": {
